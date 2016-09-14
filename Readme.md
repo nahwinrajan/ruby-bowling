@@ -1,5 +1,15 @@
 #Readme
 
+#usage
+- open your terminal window
+- navigate to un-compressed / un-zipped folder
+- type the followin in your terminal: "ruby main.rb"
+- Example input: 
+    - [6,2],[9,1],[10, 1],[10],[4,1],[5,2],[0,3],[10],[7,0],[10,7,2]
+    - [[10], [10], [10], [10], [10], [10], [10], [10], [10], [10,10,10]]
+
+- the latter is example of perfect score.
+
 ## Integration Test
 I'm aware that I didn't write Integration test (testing the behaviour of the program when It is run on the terminal windows) due to I want the program to run in
 terminal window only and couldn't find documentation of rspec for integration test on terminal window.
